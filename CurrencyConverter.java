@@ -28,7 +28,8 @@ public class CurrencyConverter {
 
                 // For amounts Conversion 
 
-		Sysytem.out.println("for £1 enter pounds");
+		System.out.println("for £1 enter pounds");
+
 
                 switch (currency){ 
 
