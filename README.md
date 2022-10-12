@@ -6,8 +6,8 @@ The name of the file that you create in the repo needs to be the same as the jav
 
 use the follwing commands to run the program in the bash shell
 
-Compile:	javac CurrencyConverter.java 
+    Compile:	javac CurrencyConverter.java 
 
-Run:		java CurrencyConverter AMMOUNT CURRENCY 
+    Run:		java CurrencyConverter AMMOUNT CURRENCY 
 
-Example:	java CurrencyConverter 50 dollars
+    Example:	java CurrencyConverter 50 dollars
