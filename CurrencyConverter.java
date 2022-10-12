@@ -30,6 +30,8 @@ public class CurrencyConverter {
 
                 switch (currency){ 
 
+			Sysytem.out.println("for £1 enter pounds");
+
                         case "dollars" : 
 
                                 // For Dollar Conversion 
